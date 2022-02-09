@@ -1,0 +1,6 @@
+#surefire_0
+#Mon Feb 07 23:49:06 PET 2022
+basedir=/home/ubuntu/Downloads/devops_ci/billing
+user.dir=/home/ubuntu/Downloads/devops_ci/billing
+maven.ext.class.path=/snap/netbeans/52/netbeans/java/maven-nblib/netbeans-eventspy.jar
+localRepository=/home/ubuntu/.m2/repository
